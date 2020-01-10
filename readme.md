@@ -2,7 +2,7 @@
 Design for Online Game Churn Prediction Model for considering residual value using the Commercial Online Game Data
 
 ## Team information
-Team : Ironman (¹Úµ¿ÁÖ)  
+Team : Ironman (ë°•ë™ì£¼)  
 4th place  
 
 ## NER model architecture
