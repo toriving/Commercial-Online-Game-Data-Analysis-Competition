@@ -5,10 +5,10 @@ Design for Online Game Churn Prediction Model for considering residual value usi
 Team : Ironman (박동주)  
 4th place  
 
-## NER model architecture
+## Model architecture
 
 This is a simple network with several fully connected layers.  
-You can see model's detail architecture in [create_model.py](https://github.com/toriving/Commercial-Online-Game-Data-Analysis-Competition/model/create_model.py)
+You can see model's detail architecture in [create_model.py](https://github.com/toriving/Commercial-Online-Game-Data-Analysis-Competition/blob/master/model/create_model.py)
 
 
 ## Requirements
